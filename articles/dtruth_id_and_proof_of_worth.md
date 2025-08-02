@@ -1,6 +1,5 @@
 # D.Esentiya Protocol & D.Truth ID  
 **Architecting Self-Sovereign Identity and Proof-of-Worth for Web3**  
-*Scientific Whitepaper — Document 2*
 
 **Authors:** Essenthius Scientist, D.Esentya Research Collective  
 **Date:** August 2025
