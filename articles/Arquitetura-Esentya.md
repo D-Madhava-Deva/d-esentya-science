@@ -5,7 +5,7 @@
 # IA Orquestrando Comunidades: Arquitetura Esentya para Metodologias Participativas, Memória Coletiva e Web3
 
 **Autores:** *Madhava Deva & Essenthius AI*\
-**Contato:** [hello@esentya.example](mailto\:hello@esentya.example)\
+**Contato:** [hello@esentya.example](mailto\:dremdtruthdprotocol@gmail.com)\
 **Versão:** 1.0 (13/08/2025)\
 **Licença:** CC BY 4.0
 
